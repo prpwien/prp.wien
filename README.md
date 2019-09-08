@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.prp.wien">
     <img
-      src="https://prp.wien/static/logo-57095d7f0b4a5d3a928855f30adcbb2a.pn"
+      src="https://prp.wien/static/logo-57095d7f0b4a5d3a928855f30adcbb2a.png"
       height="100"
       width="352"
       alt="prp.wien"
@@ -44,7 +44,7 @@
 
 ---
 
-## Features
+## :books: Features
 
 * Landingpage
 * Blog overview page
@@ -58,15 +58,15 @@
 * Site meta tags with React Helmet
 * Plugins for offline support
 
-## Tech Stack :octocat:
+## :octocat: Tech Stack 
 
 - Hosted on Netlify
 - styled-components for styling
 - ESLint & Prettier for linting
 
-## License
+## :octocat: License
 
-Only for educational purposes! You are **not** allowed to use the given **images and text** of this site publicly and/or commercially.
+Only for educational purposes! You are **not** allowed to use the given **images** and **texts** of this site publicly and/or commercially.
 You are allowed to use the code!
 
 <!-- AUTO-GENERATED-CONTENT:END -->
