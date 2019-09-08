@@ -38,7 +38,7 @@
 
 <p align="center">
   <strong>
-    Available in German & English at <a href="https://www.lekoarts.de">www.lekoarts.de</a>.
+    Available in English & ~~German~~ at <a href="https://www.prp.wien">www.prp.wien</a>.
   </strong>
 </p>
 
@@ -58,7 +58,7 @@
 * Site meta tags with React Helmet
 * Plugins for offline support
 
-## Tech Stack
+## Tech Stack :octocat:
 
 - Hosted on Netlify
 - styled-components for styling
