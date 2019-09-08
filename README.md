@@ -67,7 +67,8 @@
 ## :octocat: License
 
 Only for educational purposes! 
-You are **not** allowed to use the given **images** and **texts** of this site publicly and/or commercially.
+You are **not** allowed to use the given **images** and **texts** 
+of this site publicly and/or commercially.
 You are allowed to use the code!
 
 <!-- AUTO-GENERATED-CONTENT:END -->
