@@ -58,7 +58,7 @@
 * Site meta tags with React Helmet
 * Plugins for offline support
 
-## :octocat: Tech Stack 
+## :clipboard: Tech Stack 
 
 - Hosted on Netlify
 - styled-components for styling
