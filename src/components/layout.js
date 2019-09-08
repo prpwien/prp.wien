@@ -10,8 +10,15 @@ import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
 import styled from "@emotion/styled"
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faEnvelope, faPhone, } from '@fortawesome/free-solid-svg-icons'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+
 import Header from "./header"
 import "./layout.css"
+
+library.add(fab, faEnvelope, faPhone )
 
 const Content = styled.div`
   margin: 0 auto;
@@ -20,8 +27,8 @@ const Content = styled.div`
   padding-top: 0;
 `
 
-const GatsbyLink = styled.a`
-  margin-left: 5px;
+const Link = styled.a`
+  margin-left: 10px;
 `
 
 const Footer = styled.footer`
@@ -46,9 +53,9 @@ const Layout = ({ children }) => (
         <Content>
           <main>{children}</main>
           <Footer>
-            © {new Date().getFullYear()}, Built with
-            {` `}
-            <GatsbyLink href="https://www.gatsbyjs.org">Gatsby</GatsbyLink>
+            <Link href="mailto:mail@prp.wien"><FontAwesomeIcon icon={faEnvelope} /></Link>
+            <Link href="https://www.github.com/prproksch"><FontAwesomeIcon icon={['fab', 'linkedin']} /></Link>
+            <Link href="https://www.github.com/prproksch"><FontAwesomeIcon icon={['fab', 'github']} /></Link>
           </Footer>
         </Content>
       </>

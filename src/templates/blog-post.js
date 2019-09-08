@@ -15,9 +15,9 @@ const MarkedHeader = styled.h1`
   border-radius: 1em 0 1em 0;
   background-image: linear-gradient(
     -100deg,
-    rgba(255, 250, 150, 0.15),
-    rgba(255, 250, 150, 0.8) 100%,
-    rgba(255, 250, 150, 0.25)
+    rgba(222, 11, 21, 0.15),
+    rgba(222, 11, 21, 0.4) 100%,
+    rgba(222, 11, 21, 0.25)
   );
 `
 
@@ -42,7 +42,7 @@ const MarkdownContent = styled.div`
     right: -0.1px;
     bottom: 0;
     transition: top 0.1s ease-in-out;
-    background-color: rgba(255, 250, 150, 0.8);
+    background-color: rgba(222, 11, 21, 0.3);
   }
 
   a:hover::after {
@@ -61,7 +61,7 @@ export default ({ data }) => {
       <Content>
         <MarkedHeader>{post.frontmatter.title}</MarkedHeader>
         <HeaderDate>
-          {post.frontmatter.date} - {post.fields.readingTime.text}
+          {post.frontmatter.date}
         </HeaderDate>
         <MarkdownContent dangerouslySetInnerHTML={{ __html: post.html }} />
       </Content>

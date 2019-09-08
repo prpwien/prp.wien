@@ -54,7 +54,6 @@ const IndexPage = ({ data }) => {
               <MarkerHeader>{node.frontmatter.title} </MarkerHeader>
               <div>
                 <ArticleDate>{node.frontmatter.date}</ArticleDate>
-                <ReadingTime> - {node.fields.readingTime.text}</ReadingTime>
               </div>
               <p>{node.excerpt}</p>
             </Link>
