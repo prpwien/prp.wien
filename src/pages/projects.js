@@ -10,6 +10,7 @@ import Image1 from '../images/01.jpg'
 import Image2 from '../images/02.jpg'
 import Image3 from '../images/03.jpg'
 import Soon from '../images/soon.jpg'
+import Logo from '../images/logo.png'
 
 
 const MainHeadding = styled.h1`
@@ -95,6 +96,10 @@ const Technology = styled.span`
     font-style: italic;
     font-size: 0.8em;
 `
+
+const Logo = styled.img`
+    display: none;
+`
 const Projects = ({ data }) => {
   return (
     <Layout>
@@ -155,6 +160,7 @@ const Projects = ({ data }) => {
                 </Description>
             </Project>
         </Grid>
+        <Logo src={Logo}/>
       </Content>
     </Layout>
   )

@@ -1,5 +1,5 @@
 ---
-title: My CV / Resume"
+title: "My CV / Resume"
 date: "2019-09-09"
 draft: false
 path: "/blog/cv"
