@@ -97,7 +97,7 @@ const Technology = styled.span`
     font-size: 0.8em;
 `
 
-const Logo = styled.img`
+const LogoImage = styled.img`
     display: none;
 `
 const Projects = ({ data }) => {
@@ -160,7 +160,7 @@ const Projects = ({ data }) => {
                 </Description>
             </Project>
         </Grid>
-        <Logo src={Logo}/>
+        <LogoImage src={Logo}/>
       </Content>
     </Layout>
   )
