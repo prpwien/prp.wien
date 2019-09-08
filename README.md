@@ -3,8 +3,8 @@
   <a href="https://www.prp.wien">
     <img
       src="https://prp.wien/static/logo-57095d7f0b4a5d3a928855f30adcbb2a.png"
-      height="288"
-      width="352"
+      width="183"
+      height="150"
       alt="prp.wien"
       title="prp.wien"
     />
