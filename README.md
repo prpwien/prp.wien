@@ -3,7 +3,7 @@
   <a href="https://www.prp.wien">
     <img
       src="https://prp.wien/static/logo-57095d7f0b4a5d3a928855f30adcbb2a.png"
-      height="100"
+      height="288"
       width="352"
       alt="prp.wien"
       title="prp.wien"
@@ -38,7 +38,7 @@
 
 <p align="center">
   <strong>
-    Available in English & ~~German~~ at <a href="https://www.prp.wien">www.prp.wien</a>.
+    Available in English at <a href="https://www.prp.wien">www.prp.wien</a>.
   </strong>
 </p>
 
