@@ -46,16 +46,11 @@
 
 ## :books: Features
 
-* Landingpage
-* Blog overview page
-* Markdown sourcing from /content folder
+* Markdown sourcing
 * Estimated reading time for each post
-* Styled components with emotion
-* Netlify deployment friendly
-* Nunito font included as npm module
-* Syntax highlighting with prismjs
-* Textmarkerstyle headings inspired by Basecamp
-* Site meta tags with React Helmet
+* Styled components
+* Nunito font
+* Textmarkerstyle headings
 * Plugins for offline support
 
 ## :clipboard: Tech Stack 
