@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Philipp R. Proksch`,
+    title: `Philipp Proksch`,
     description: `A (junior) web developer based near Vienna, Austria.`,
     author: `@prpwien`,
   },

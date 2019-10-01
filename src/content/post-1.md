@@ -9,7 +9,7 @@ path: "/blog/cv"
 [mail@prp.wien](mailto:mail@prp.wien) | 
 [+43 660 34 44 041](tel:+436603444041)
 
-# Philipp Proksch &ndash; (Junior) Web Developer
+# Philipp R. Proksch &ndash; (Junior) Web Developer
 ## TL;DR
 - 1 year of experience in lerning web development
 - Full stack skill-set with a concentration on front-end development
