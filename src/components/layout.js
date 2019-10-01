@@ -29,11 +29,24 @@ const Content = styled.div`
 
 const Link = styled.a`
   margin-left: 10px;
+  height: 1em;
 `
 
 const Footer = styled.footer`
   display: flex;
   justify-content: center;
+`
+const Social = styled.div`
+    a {
+        text-decoration: none;
+        position: relative;
+    }
+    
+    a:hover {
+        transition: top 0.1s ease-in-out;
+        color: rgba(229, 9, 20, 1); 
+    }
+    
 `
 
 const Layout = ({ children }) => (
@@ -53,9 +66,9 @@ const Layout = ({ children }) => (
         <Content>
           <main>{children}</main>
           <Footer>
-            <Link href="mailto:mail@prp.wien"><FontAwesomeIcon icon={faEnvelope} /></Link>
-            <Link href="https://www.github.com/prproksch"><FontAwesomeIcon icon={['fab', 'linkedin']} /></Link>
-            <Link href="https://www.github.com/prproksch"><FontAwesomeIcon icon={['fab', 'github']} /></Link>
+            <Social><Link href="mailto:mail@prp.wien"><FontAwesomeIcon icon={faEnvelope} /></Link></Social>
+            <Social><Link href="https://www.github.com/prproksch"><FontAwesomeIcon icon={['fab', 'linkedin']} /></Link></Social>
+            <Social><Link href="https://www.github.com/prproksch"><FontAwesomeIcon icon={['fab', 'github']} /></Link></Social>
           </Footer>
         </Content>
       </>
