@@ -18,9 +18,9 @@ const MainHeadding = styled.h1`
     border-radius: 1em 0 1em 0;
     background-image: linear-gradient(
     -100deg,
-    rgba(222, 11, 21, 0.15),
-    rgba(222, 11, 21, 0.4) 100%,
-    rgba(222, 11, 21, 0.25)
+    rgba(67, 78, 94, 0.15),
+    rgba(67, 78, 94, 0.4) 100%,
+    rgba(67, 78, 94, 0.25)
     );
 `
 
@@ -61,7 +61,7 @@ const Project = styled.div`
         right: -0.1px;
         bottom: 0;
         transition: top 0.1s ease-in-out;
-        background-color: rgba(222, 11, 21, 0.3); 
+        background-color: rgba(67, 78, 94, 0.65); 
     }
     
     a:hover::after {

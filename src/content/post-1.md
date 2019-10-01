@@ -14,14 +14,16 @@ path: "/blog/cv"
 - 1 year of experience in lerning web development
 - Full stack skill-set with a concentration on front-end development
 - German (Native), Englisch (A-Level)
+- currently majoring in information technology at HTL Pinkafeld
 
 ## About 
 About a year ago I began to be fascinated by software development and especially building websites. 
-I started by taking the publicly available courses on FreeCodeCamp and Codecademy. 
-After about two to three months in I switched to the “Create Websites from Scratch” - Program hosted by Codecademy, 
+After about two months of lerning the basics I switched to the “Create Websites from Scratch” - Program hosted by Codecademy, 
 where I learned to create websites using HTML, CSS and basic JQuery to animate it.
 While learning all these basics I completely dove into the coding community, started to watch YouTube videos and listening to podcasts (mainly Syntax.fm). 
 After completing the course I looked for the next target to tackle and chose GatsbyJS to create *„blazing fast“* and modern websites in ReactJS.
+
+Since September 2019 I'm majoring in information technology at <a href="https://www.htlpinkafeld.at" target="_blank">HTL Pinkafeld</a>.
 
 ## Skills
 - Programming Language &ndash; HTML, CSS, JavaScript, SASS,
@@ -36,7 +38,7 @@ After completing the course I looked for the next target to tackle and chose Gat
 - German (Native)
 - Englisch (A-Level)
 
-## *„Soft / Core“* &ndash; Skills
+## *„Soft“* &ndash; Skills
 - Troubleshooting 
 - Desire to learn
 - Honesty

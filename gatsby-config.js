@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Philipp Proksch`,
+    title: `Philipp R. Proksch`,
     description: `A (junior) web developer based near Vienna, Austria.`,
-    author: `@prproksch`,
+    author: `@prpwien`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
