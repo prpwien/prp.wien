@@ -66,9 +66,7 @@ const Layout = ({ children }) => (
         <Content>
           <main>{children}</main>
           <Footer>
-            <Social><Link href="mailto:mail@prp.wien"><FontAwesomeIcon icon={faEnvelope} /></Link></Social>
-            <Social><Link href="https://www.github.com/prproksch"><FontAwesomeIcon icon={['fab', 'linkedin']} /></Link></Social>
-            <Social><Link href="https://www.github.com/prproksch"><FontAwesomeIcon icon={['fab', 'github']} /></Link></Social>
+            
           </Footer>
         </Content>
       </>

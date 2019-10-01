@@ -1,15 +1,17 @@
 ---
-title: "My CV / Resume"
-date: "2019-09-09"
+title: "About Me"
+date: "2019-10-01"
 draft: false
-path: "/blog/cv"
+path: "/blog/about"
 ---
 
-> [prp.wien](https://prp.wien) | 
-[mail@prp.wien](mailto:mail@prp.wien) | 
-[+43 660 34 44 041](tel:+436603444041)
+> [mail@prp.wien](mailto:mail@prp.wien) |
+[+43 660 36 44 041](tel:+436603644041) |
+[LinkedIn](https://www.linkedin.com/in/prpwien) |
+[GitHub](https://www.github.com/prpwien)
 
 # Philipp R. Proksch &ndash; (Junior) Web Developer
+
 ## TL;DR
 - 1 year of experience in lerning web development
 - Full stack skill-set with a concentration on front-end development
@@ -39,12 +41,10 @@ Since September 2019 I'm majoring in information technology at <a href="https://
 - Englisch (A-Level)
 
 ## *„Soft“* &ndash; Skills
-- Troubleshooting 
+- Troubleshooting
 - Desire to learn
 - Honesty
 - Critical Thinking
 - Respectfulness
 - Dedication
 - Enthusiasm
-
-

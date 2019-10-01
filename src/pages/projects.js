@@ -94,7 +94,7 @@ const Links = styled.a`
     
 `
 const Technology = styled.span`
-    color: rgba(96, 96, 96, 0.6);
+    color: #606060;
     font-weight: bold;
     font-style: italic;
     font-size: 0.8em;

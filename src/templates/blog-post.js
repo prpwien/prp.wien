@@ -13,13 +13,15 @@ const Content = styled.div`
 const MarkedHeader = styled.h1`
   display: inline;
   border-radius: 1em 0 1em 0;
+`
+/*
   background-image: linear-gradient(
     -100deg,
     rgba(67, 78, 94, 0.15),
     rgba(67, 78, 94, 0.4) 100%,
     rgba(67, 78, 94, 0.25)
   );
-`
+*/
 
 const HeaderDate = styled.h3`
   margin-top: 10px;
@@ -42,7 +44,7 @@ const MarkdownContent = styled.div`
     right: -0.1px;
     bottom: 0;
     transition: top 0.1s ease-in-out;
-    background-color: rgba(67, 78, 94, 0.65);
+    background-color: rgba(229, 9, 20, 0.65); 
   }
 
   a:hover::after {
