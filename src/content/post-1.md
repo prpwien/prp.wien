@@ -25,7 +25,7 @@ where I learned to create websites using HTML, CSS and basic JQuery to animate i
 While learning all these basics I completely dove into the coding community, started to watch YouTube videos and listening to podcasts (mainly Syntax.fm). 
 After completing the course I looked for the next target to tackle and chose GatsbyJS to create *„blazing fast“* and modern websites in ReactJS.
 
-Since September 2019 I'm majoring in information technology at <a href="https://www.htlpinkafeld.at" target="_blank">HTL Pinkafeld</a>.
+Since September 2019 I'm majoring in information technology at <a href="https://www.htlpinkafeld.at" target="_blank">HTL Pinkafeld</a> and I also starded to educate myself about IT-Security & PEN-Testing.
 
 ## Skills
 - Programming Language &ndash; HTML, CSS, JavaScript, SASS,
