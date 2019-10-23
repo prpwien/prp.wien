@@ -111,7 +111,7 @@ const Projects = ({ data }) => {
         <MainHeadding>Projects</MainHeadding>
         <Grid>
             <Project>
-                <Image src={Image1}/>
+                <Image src={Image1} alt="An Artists Portfolio"/>
                 <Description>
                     <Headding>Herbertkoch.art</Headding>
                     <Text>
@@ -124,7 +124,7 @@ const Projects = ({ data }) => {
                 </Description>
             </Project>
             <Project>
-                <Image src={Image2}/>
+                <Image src={Image2} alt="A Model RC Plane Club"/>
                 <Description>
                     <Headding>Mfc-hohenau.at</Headding>
                     <Text>
@@ -137,11 +137,11 @@ const Projects = ({ data }) => {
                 </Description>
             </Project>
             <Project>
-                <Image src={Image3}/>
+                <Image src={Image3} alt="Fictive Security Business"/>
                 <Description>
                     <Headding>Schwarzwasser.org</Headding>
                     <Text>
-                        Fictive Business 
+                        Fictive Security Business 
                         <br /> 
                         <Technology>HTML5 | CSS | JQuerry | Animate.css</Technology>
                         <br /> 
@@ -150,7 +150,7 @@ const Projects = ({ data }) => {
                 </Description>
             </Project>
             <Project>
-                <Image src={Soon}/>
+                <Image src={Soon} alt="Car Tuning Business "/>
                 <Description>
                     <Headding>Eastside84.com</Headding>
                     <Text>
@@ -163,7 +163,6 @@ const Projects = ({ data }) => {
                 </Description>
             </Project>
         </Grid>
-        <LogoImage src={Logo}/>
       </Content>
     </Layout>
   )
