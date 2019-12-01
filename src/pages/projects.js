@@ -6,6 +6,7 @@ import styled from "@emotion/styled"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+import Image0 from '../images/00.jpg'
 import Image1 from '../images/01.jpg'
 import Image2 from '../images/02.jpg'
 import Image3 from '../images/03.jpg'
@@ -110,6 +111,19 @@ const Projects = ({ data }) => {
       <Content>
         <MainHeadding>Projects</MainHeadding>
         <Grid>
+            <Project>
+                <Image src={Image0} alt="My Portfolio"/>
+                <Description>
+                    <Headding>prp.wien</Headding>
+                    <Text>
+                        An Artists Portfolio 
+                        <br /> 
+                        <Technology>HTML5 | CSS | JQuerry</Technology>
+                        <br /> 
+                        <Links href="https://www.prp.wien" target="_blank" rel="noopener noreferrer">Go to Website</Links>
+                    </Text>
+                </Description>
+            </Project>
             <Project>
                 <Image src={Image1} alt="An Artists Portfolio"/>
                 <Description>

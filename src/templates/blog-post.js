@@ -61,10 +61,6 @@ export default ({ data }) => {
         description={post.frontmatter.description || post.excerpt}
       />
       <Content>
-        <MarkedHeader>{post.frontmatter.title}</MarkedHeader>
-        <HeaderDate>
-          {post.frontmatter.date}
-        </HeaderDate>
         <MarkdownContent dangerouslySetInnerHTML={{ __html: post.html }} />
       </Content>
     </Layout>
