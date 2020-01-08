@@ -116,9 +116,9 @@ const Projects = ({ data }) => {
                 <Description>
                     <Headding>prp.wien</Headding>
                     <Text>
-                        An Artists Portfolio 
+                        My Website 
                         <br /> 
-                        <Technology>HTML5 | CSS | JQuerry</Technology>
+                        <Technology>GatsbyJS | ReactJS | CSS</Technology>
                         <br /> 
                         <Links href="https://www.prp.wien" target="_blank" rel="noopener noreferrer">Go to Website</Links>
                     </Text>
