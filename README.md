@@ -26,7 +26,7 @@
 
 <p align="center">
   <strong>
-    Available in English at <a href="https://www.prp.wien">www.prp.wien</a>.
+    Available at <a href="https://www.prp.wien">www.prp.wien</a>.
   </strong>
 </p>
 
