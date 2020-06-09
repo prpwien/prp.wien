@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
-  My personal resume & portfolio. Built with <a href="https://www.gatsbyjs.org">Gatsby.js</a>.
+  My personal resume & portfolio.</ br>
+  Built with <a href="https://www.gatsbyjs.org">Gatsby.js</a>.
 </p>
 
 <p align="center">
