@@ -8,16 +8,15 @@ path: "/blog/about"
 # Philipp R. Proksch
 
 > [mail@prp.wien](mailto:mail@prp.wien) |
-[+43 660 36 44 041](tel:+436603644041) |
-[LinkedIn](https://www.linkedin.com/in/prpwien) |
-[GitHub](https://www.github.com/prpwien)
+> [LinkedIn](https://www.linkedin.com/in/philippproksch) |
+> [GitHub](https://www.github.com/prpwien)
 
 ## TL;DR
 
 - 1 year of experience in learning web development
 - Full stack skill-set with a concentration on front-end development
 - German (Native), English (A-Level)
-- evening school in computer science at HTL Pinkafeld
+- Udacity "Front End Developer Nanodegree Program" Graduate
 
 ## About
 
@@ -25,9 +24,8 @@ About a year ago I began to be fascinated by software development and especially
 After about two months of learning the basics I switched to the “Create Websites from Scratch” - Program hosted by Codecademy,
 where I learned to create websites using HTML, CSS and basic JQuery to animate it.
 While learning all these basics I completely dove into the coding community, started to watch YouTube videos and listening to podcasts (mainly Syntax.fm).
-After completing the course I looked for the next target to tackle and chose GatsbyJS to create *„blazing fast“* and modern websites with ReactJS.
-
-Since September 2019 I'm majoring in information technology at HTL Pinkafeld and I also started to educate myself about IT-Security & PEN-Testing.
+On July 10 2020, I finished the „Front End Developer Nanodegree Program“ at Udacity.
+I'm always enthusiastic about new technology and also educating myself about Frameworks, IT-Security & PEN-Testing.
 
 ## Skills
 
@@ -37,7 +35,7 @@ Since September 2019 I'm majoring in information technology at HTL Pinkafeld and
 ## Tools
 
 - Framework &ndash; React, GatsbyJS, React-Native Styled Components, Bootstrap
-- Content Management System &ndash; Forestry.io, WordPress, NetlifyCMS
+- Content Management System &ndash; Webpack, Forestry.io, WordPress, NetlifyCMS
 - Graphic Editor &ndash; Adobe Illustrator, Adobe Photoshop, GIMP
 
 ## Languages
@@ -45,7 +43,7 @@ Since September 2019 I'm majoring in information technology at HTL Pinkafeld and
 - German (Native)
 - Englisch (A-Level)
 
-## *„Soft“* &ndash; Skills
+## _„Soft“_ &ndash; Skills
 
 - Troubleshooting
 - Desire to learn
