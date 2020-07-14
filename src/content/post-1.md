@@ -13,7 +13,7 @@ path: "/blog/about"
 
 ## TL;DR
 
-- 1 Jahr erfahrung year of experience in learning web development
+- 1,5 Jahre Erfahrung
 - aktuell Front-End Skill-set, MERN-Stack angepeilt
 - Deutsch (Muttersprache), English (Maturaniveau)
 - Absolvent des "Front End Developer Nanodegree Program" von Udacity
