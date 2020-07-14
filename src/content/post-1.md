@@ -20,7 +20,7 @@ path: "/blog/about"
 
 ## Motivation
 
-Im Dezember 2018 begann meine Reise in die Webentwicklung, mit dem Codecademy Kurs “Create Websites from Scratch”. Nachdem dieser abgeschlossen war, widmete ich mich den erstellen simpler und kleinerer Websites für Freunde und Bekannte. Zirka ein Jahr später schrieb ich mich in das “Front End Web Developer Nanodegree” von Udacity ein und beendete dieses nach eineinhalb Monaten erfolgreich. Dieser Kurs brachte mir den Umgang mit JavaScript, SCSS, Node.js, Express und Webpack näher und zeigte mir wie man simple Web-Apps mit APIs verbindet. Aktuell lerne ich den MERN-Stack (MongoDB, Express, ReactJS und Node.js) und bilde mich in Sachen IT-Security weiter.
+Im Dezember 2018 begann meine Reise in die Webentwicklung, mit dem Codecademy Kurs “Create Websites from Scratch”. Nachdem dieser abgeschlossen war, widmete ich mich den erstellen simpler und kleiner Websites für Freunde und Bekannte. Zirka ein Jahr später schrieb ich mich in das “Front End Web Developer Nanodegree” von Udacity ein und beendete dieses nach eineinhalb Monaten erfolgreich. Dieser Kurs brachte mir den Umgang mit JavaScript, SCSS, Node.js, Express und Webpack näher und zeigte mir wie man simple Web-Apps mit APIs verbindet. Aktuell lerne ich den MERN-Stack (MongoDB, Express, ReactJS und Node.js) und bilde mich in Sachen IT-Security weiter.
 
 ## Skills
 
