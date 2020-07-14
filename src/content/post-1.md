@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: "2019-10-01"
+date: "2020-07-14"
 draft: false
 path: "/blog/about"
 ---
