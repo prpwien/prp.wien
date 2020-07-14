@@ -13,42 +13,33 @@ path: "/blog/about"
 
 ## TL;DR
 
-- 1 year of experience in learning web development
-- Full stack skill-set with a concentration on front-end development
-- German (Native), English (A-Level)
-- Udacity "Front End Developer Nanodegree Program" Graduate
+- 1 Jahr erfahrung year of experience in learning web development
+- aktuell Front-End Skill-set, MERN-Stack angepeilt
+- Deutsch (Muttersprache), English (Maturaniveau)
+- Absolvent des "Front End Developer Nanodegree Program" von Udacity
 
-## About
+## Motivation
 
-About a year ago I began to be fascinated by software development and especially building websites.
-After about two months of learning the basics I switched to the “Create Websites from Scratch” - Program hosted by Codecademy,
-where I learned to create websites using HTML, CSS and basic JQuery to animate it.
-While learning all these basics I completely dove into the coding community, started to watch YouTube videos and listening to podcasts (mainly Syntax.fm).
-On July 10 2020, I finished the „Front End Developer Nanodegree Program“ at Udacity.
-I'm always enthusiastic about new technology and also educating myself about Frameworks, IT-Security & PEN-Testing.
+Im Dezember 2018 begann meine Reise in die Webentwicklung, mit dem Codecademy Kurs “Create Websites from Scratch”. Nachdem dieser abgeschlossen war, widmete ich mich den erstellen simpler und kleinerer Websites für Freunde und Bekannte. Zirka ein Jahr später schrieb ich mich in das “Front End Web Developer Nanodegree” von Udacity ein und beendete dieses nach eineinhalb Monaten erfolgreich. Dieser Kurs brachte mir den Umgang mit JavaScript, SCSS, Node.js, Express und Webpack näher und zeigte mir wie man simple Web-Apps mit APIs verbindet. Aktuell lerne ich den MERN-Stack (MongoDB, Express, ReactJS und Node.js) und bilde mich in Sachen IT-Security weiter.
 
 ## Skills
 
-- Programming Language &ndash; HTML, CSS, JavaScript, SASS,
-- UI/UX &ndash; Mobile-first Design, Responsive Web Design
-
-## Tools
-
-- Framework &ndash; React, GatsbyJS, React-Native Styled Components, Bootstrap
+- Programming &ndash; HTML5, CSS3, JavaScript, SCSS,
+- UI/UX &ndash; Mobile-first Design, Responsive Web Design,
+- Framework &ndash; Javascript: React, GatsbyJS
 - Content Management System &ndash; Webpack, Forestry.io, WordPress, NetlifyCMS
-- Graphic Editor &ndash; Adobe Illustrator, Adobe Photoshop, GIMP
+- Graphic Editor &ndash; Adobe Illustrator, Adobe Photoshop, GIMP, Figma
 
-## Languages
+## Sprachen
 
-- German (Native)
-- Englisch (A-Level)
+- Deutsch (Muttersprache)
+- Englisch (Maturaniveau)
 
 ## _„Soft“_ &ndash; Skills
 
-- Troubleshooting
-- Desire to learn
-- Honesty
-- Critical Thinking
-- Respectfulness
-- Dedication
-- Enthusiasm
+- kommunikationsfähig,
+- kritikfähig,
+- lösungsorientiert,
+- ambitioniert,
+- lernbereit,
+- eloquent
