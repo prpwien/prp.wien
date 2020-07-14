@@ -8,7 +8,7 @@ path: "/blog/about"
 # Philipp R. Proksch
 
 > [mail@prp.wien](mailto:mail@prp.wien) |
-> [LinkedIn](https://www.linkedin.com/in/philippproksch) |
+> [LinkedIn](https://www.linkedin.com/in/philipprproksch) |
 > [GitHub](https://www.github.com/prpwien)
 
 ## TL;DR
