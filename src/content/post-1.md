@@ -13,7 +13,7 @@ path: "/blog/about"
 
 ## TL;DR
 
-- seit 2018
+- Coding seit 2018
 - Front-End Skill-set, lerne aktuell PHP für Laravel
 - Deutsch (Muttersprache), English (Maturaniveau), Russisch (im Lernprozess)
 - Absolvent des "Front End Developer Nanodegree Program" von Udacity
