@@ -45,14 +45,13 @@ const SiteHeader = styled.header`
   align-content: center;
   justify-content: center;
 `
-
+//<NavLink to="/blog/about">About</NavLink>
 const Header = ({ siteTitle }) => (
   <SiteHeader>
     <Content>
       <p>
         <HomeLink to="/">Home</HomeLink>
         <NavLink to="/projects">Projects</NavLink>
-        <NavLink to="/blog/about">About</NavLink>
       </p>
     </Content>
   </SiteHeader>

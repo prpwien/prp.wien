@@ -50,13 +50,14 @@ const LandingBio = () => (
       <OuterContainer>
         <Container>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
-          <Description>(Junior) Web Developer</Description>
+          
           <Image src={Image1} alt="Sketched person with Laptop"/>
         </Container>
       </OuterContainer>
     )}
   />
 )
+//<Description>(Junior) Web Developer</Description>
 
 NameHeader.propTypes = {
   siteTitle: PropTypes.string,
